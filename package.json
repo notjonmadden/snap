@@ -1,0 +1,15 @@
+{
+  "name": "snap",
+  "version": "0.1.0",
+  "description": "dead-simple data binding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon Madden",
+  "license": "MIT",
+  "dependencies": {
+    "rollup-plugin-node-resolve": "^3.0.0",
+    "rollup-plugin-typescript2": "^0.5.0"
+  }
+}
